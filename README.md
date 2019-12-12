@@ -1,3 +1,7 @@
+## WIP
+
+Forking to update for python 3.7 and django 1.11
+
 ## django-plugins
 
 [![Build Status](https://travis-ci.org/krischer/django-plugins.svg?branch=master)](https://travis-ci.org/krischer/django-plugins) ||  Latest stable version: [![PyPI version](https://badge.fury.io/py/django-plugins.svg)](https://badge.fury.io/py/django-plugins)
